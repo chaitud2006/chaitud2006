@@ -1,7 +1,72 @@
 # 💫 About Me:
 Hii 👋, I'm Chaithra,<br>           <br>              I am a final year BTech student in AI & DS with a strong interest in Full Stack Java Development and Software Engineering. I enjoy building clean, user friendly web applications and continuously learning new technologies.<br>Currently, I am strengthening my skills in Java, Spring Boot, React, JavaScript, MySQL, and REST APIs while solving Data Structures and Algorithms problems and developing real-world projects.<br><br>#Areas of Interest<br>- Full Stack Java Development<br>- Web Application Development<br>- Artificial Intelligence & Data Science<br>- Database Management<br>- Problem Solving with DSA<br><br>I am always eager to learn, collaborate, and contribute to impactful software projects.<br>
 
+# Hi there, I'm Chaithra 👋
 
+I'm a final-year B.Tech student in **AI & Data Science**, passionate about **Full Stack Java Development** and **Software Engineering**. I specialize in building clean, scalable web applications and developing data-driven solutions.
+
+---
+
+### 💡 About Me
+- 🎓 Final Year B.Tech (AI & DS)
+- 🎯 Focus Areas: Full Stack Java Development, RESTful Microservices, Database Systems
+- 🛠️ Currently learning: System Design & Advanced Cloud Architecture
+- 📬 How to reach me: [dinnepallichaithra@gmail.com](mailto:dinnepallichaithra@gmail.com)
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dinnepallichaithra)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dinnepallichaithra@gmail.com)
+
+---
+
+### 💻 Tech Stack
+
+**Backend & Database**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Frontend**  
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+**AI / Data Science & Cloud**  
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+#### 🚀 Project Title 1 | Full Stack Application
+- Built a web platform using **Java, Spring Boot, React, and MySQL**.
+- Integrated JWT authentication and RESTful API endpoints.
+- [Source Code](https://github.com/chaitud2006) | [Live Demo](https://your-demo-link.com)
+
+#### 🤖 Project Title 2 | AI / ML Model
+- Developed a machine learning pipeline using **Python, scikit-learn, and Pandas**.
+- Achieved model deployment with real-time API inference.
+- [Source Code](https://github.com/chaitud2006)
+
+---
+
+### 📊 Analytics & Streak
+
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=chaitud2006&theme=dark&hide_border=false&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=chaitud2006&theme=dark&hide_border=false&layout=compact" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=chaitud2006&theme=dark&hide_border=false" width="100%" />
+</p>
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dinnepallichaithra) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dinnepallichaithra@gmail.com) 
 
